@@ -1,4 +1,4 @@
-<img width="5005" height="2296" alt="image" src="https://github.com/user-attachments/assets/6ac09384-abd9-4538-b7c3-45ff5d4e3bdc" /># 阿里云企业Web上云架构实战
+# 阿里云企业Web上云架构实战
 > ACP云计算备考实践项目
 
 本项目基于阿里云云起实验室完成企业级Web多层架构实操，练习VPC网络、负载均衡、云数据库、NAT网关等核心云产品，理解云上高可用架构与按量付费计费规则。
